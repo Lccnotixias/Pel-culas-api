@@ -13,47 +13,9 @@
     "calificacion": 7.9,
     "videomp4": "https://ia600108.us.archive.org/29/items/coyote-vs.-acme-2026-1080-p-dcprip/Coyote%20Vs.%20Acme%20(2026)%20%5B1080P%5D%20Dcprip.mp4"
   },
+  
   {
-    "id": "id-pelicula-2",
-    "titulo": "Título de la segunda película",
-    "portada": "https://image.tmdb.org/t/p/w500/url_portada_2.jpg",
-    "banner": "https://image.tmdb.org/t/p/w1280/url_banner_2.jpg",
-    "categorias": ["Acción", "Suspenso"],
-    "descripcion": "Descripción de la segunda película.",
-    "anio": "2026",
-    "pais": ["United States of America"],
-    "director": ["Director 2"],
-    "actores": ["Actor 1", "Actor 2"],
-    "calificacion": 8.0,
-    "videomp4": "https://enlace-al-video-mp4-2.mp4"
-  },
-  {
-    "id": "id-pelicula-3",
-    "titulo": "Título de la tercera película",
-    "portada": "https://image.tmdb.org/t/p/w500/url_portada_3.jpg",
-    "banner": "https://image.tmdb.org/t/p/w1280/url_banner_3.jpg",
-    "categorias": ["Drama", "Terror"],
-    "descripcion": "Descripción de la tercera película.",
-    "anio": "2026",
-    "pais": ["United States of America"],
-    "director": ["Director 3"],
-    "actores": ["Actor A", "Actor B"],
-    "calificacion": 7.5,
-    "videomp4": "https://enlace-al-video-mp4-3.mp4"
-  },
-  {
-    "id": "id-pelicula-4",
-    "titulo": "Título de la cuarta película",
-    "portada": "https://image.tmdb.org/t/p/w500/url_portada_4.jpg",
-    "banner": "https://image.tmdb.org/t/p/w1280/url_banner_4.jpg",
-    "categorias": ["Aventura", "Ciencia Ficción"],
-    "descripcion": "Descripción de la cuarta película.",
-    "anio": "2026",
-    "pais": ["United States of America"],
-    "director": ["Director 4"],
-    "actores": ["Actor C", "Actor D"],
-    "calificacion": 8.2,
-    "videomp4": "https://enlace-al-video-mp4-4.mp4"
+   
   },
   { "id": "obsesion", "titulo": "Obsesión", "portada": "https://image.tmdb.org/t/p/w500/rmCkNtzYR2xTOO3ZXmIqB5zgYdE.jpg", "banner": "https://image.tmdb.org/t/p/w1280/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg", "categorias": [ "Terror", "Suspense" ], "descripcion": "Tras romper el misterioso \"Sauce de un Deseo\" para conquistar el corazón de la chica que le gusta, un romántico empedernido consigue exactamente lo que pedía, pero pronto descubre que algunos deseos tienen un precio oscuro y siniestro.", "año": "2026", "pais": [ "United States of America", "United Kingdom" ], "director": [ "Curry Barker" ], "actores": [ "Michael Johnston", "Inde Navarrette", "Cooper Tomlinson", "Megan Lawless", "Andy Richter", "Haley Fitzgerald", "Darin Toonder", "Anthony Pavone", "Justice", "Anthony Casabianca" ], "calificacion": 8.2, "videomp4": "https://ugc-cdn-caching-n3thliixidzdaessdj.cloudwindow-route.com/engine/hls2-c/01/18142/7ugsbzzgc5jh_,o,.urlset/index-v1-a1.m3u8?t=gmJlhefemWigEx3SeslBoctxqjI_qw1V_LpTIReyprU&s=1788417544&e=14400&f=90713955&node=JmTX84tpN7ZTLw79gMPm0hH1VP2VeOemqREStnp8r9I=&i=181.46&sp=2500&asn=27747&q=o&rq=kxeUZGdOKBatfbfS3thM9fzOTuWbug5JKhFBwHFL" },
   {
