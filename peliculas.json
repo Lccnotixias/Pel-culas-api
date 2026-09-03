@@ -41,8 +41,8 @@
     "calificacion": 7.5,
     "videomp4": "https://enlace-al-video-mp4-3.mp4"
   ,}
-]
- {
+
+   {
     "id": "id-pelicula-3",
     "titulo": "Título de la cuarta  película",
     "portada": "https://image.tmdb.org/t/p/w500/url_portada_3.jpg",
@@ -56,3 +56,4 @@
     "calificacion": 7.5,
     "videomp4": "https://enlace-al-video-mp4-3.mp4"
   }
+]
