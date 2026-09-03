@@ -13,20 +13,32 @@
     "calificacion": 7.9,
     "videomp4": "https://ia600108.us.archive.org/29/items/coyote-vs.-acme-2026-1080-p-dcprip/Coyote%20Vs.%20Acme%20(2026)%20%5B1080P%5D%20Dcprip.mp4"
   },
-],
-  [
   {
-    "id": "coyote-vs-acme",
-    "titulo": "Coyote vs. Acme",
-    "portada": "https://image.tmdb.org/t/p/w500/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
-    "banner": "https://image.tmdb.org/t/p/w1280/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
-    "categorias": ["Comedia", "Aventura", "Familia"],
-    "descripcion": "Luego de que los productos Acme le fallan demasiadas veces en su tenaz búsqueda del Correcaminos, Wile E. Coyote decide contratar a un abogado especializado en vallas publicitarias para demandar a Acme Corporation.",
+    "id": "id-pelicula-2",
+    "titulo": "Título de la segunda película",
+    "portada": "https://image.tmdb.org/t/p/w500/url_portada_2.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/url_banner_2.jpg",
+    "categorias": ["Acción", "Suspenso"],
+    "descripcion": "Descripción de la segunda película.",
     "anio": "2026",
     "pais": ["United States of America"],
-    "director": ["Dave Green"],
-    "actores": ["Will Forte", "Lana Condor", "John Cena"],
-    "calificacion": 7.9,
-    "videomp4": "https://ia600108.us.archive.org/29/items/coyote-vs.-acme-2026-1080-p-dcprip/Coyote%20Vs.%20Acme%20(2026)%20%5B1080P%5D%20Dcprip.mp4"
+    "director": ["Director 2"],
+    "actores": ["Actor 1", "Actor 2"],
+    "calificacion": 8.0,
+    "videomp4": "https://enlace-al-video-mp4-2.mp4"
   },
-],
+  {
+    "id": "id-pelicula-3",
+    "titulo": "Título de la tercera película",
+    "portada": "https://image.tmdb.org/t/p/w500/url_portada_3.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/url_banner_3.jpg",
+    "categorias": ["Drama", "Terror"],
+    "descripcion": "Descripción de la tercera película.",
+    "anio": "2026",
+    "pais": ["United States of America"],
+    "director": ["Director 3"],
+    "actores": ["Actor A", "Actor B"],
+    "calificacion": 7.5,
+    "videomp4": "https://enlace-al-video-mp4-3.mp4"
+  }
+]
