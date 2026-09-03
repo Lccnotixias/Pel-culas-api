@@ -27,7 +27,7 @@
     "calificacion": 8.0,
     "videomp4": "https://enlace-al-video-mp4-2.mp4"
   },
-  {,
+  {
     "id": "id-pelicula-3",
     "titulo": "Título de la tercera película",
     "portada": "https://image.tmdb.org/t/p/w500/url_portada_3.jpg",
@@ -40,20 +40,19 @@
     "actores": ["Actor A", "Actor B"],
     "calificacion": 7.5,
     "videomp4": "https://enlace-al-video-mp4-3.mp4"
-  ,}
-
-   {
-    "id": "id-pelicula-3",
-    "titulo": "Título de la cuarta  película",
-    "portada": "https://image.tmdb.org/t/p/w500/url_portada_3.jpg",
-    "banner": "https://image.tmdb.org/t/p/w1280/url_banner_3.jpg",
-    "categorias": ["Drama", "Terror"],
-    "descripcion": "Descripción de la tercera película.",
+  },
+  {
+    "id": "id-pelicula-4",
+    "titulo": "Título de la cuarta película",
+    "portada": "https://image.tmdb.org/t/p/w500/url_portada_4.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/url_banner_4.jpg",
+    "categorias": ["Aventura", "Ciencia Ficción"],
+    "descripcion": "Descripción de la cuarta película.",
     "anio": "2026",
     "pais": ["United States of America"],
-    "director": ["Director 3"],
-    "actores": ["Actor A", "Actor B"],
-    "calificacion": 7.5,
-    "videomp4": "https://enlace-al-video-mp4-3.mp4"
+    "director": ["Director 4"],
+    "actores": ["Actor C", "Actor D"],
+    "calificacion": 8.2,
+    "videomp4": "https://enlace-al-video-mp4-4.mp4"
   }
 ]
