@@ -54,5 +54,6 @@
     "actores": ["Actor C", "Actor D"],
     "calificacion": 8.2,
     "videomp4": "https://enlace-al-video-mp4-4.mp4"
-  }
+  },
+  { "id": "obsesion", "titulo": "Obsesión", "portada": "https://image.tmdb.org/t/p/w500/rmCkNtzYR2xTOO3ZXmIqB5zgYdE.jpg", "banner": "https://image.tmdb.org/t/p/w1280/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg", "categorias": [ "Terror", "Suspense" ], "descripcion": "Tras romper el misterioso \"Sauce de un Deseo\" para conquistar el corazón de la chica que le gusta, un romántico empedernido consigue exactamente lo que pedía, pero pronto descubre que algunos deseos tienen un precio oscuro y siniestro.", "año": "2026", "pais": [ "United States of America", "United Kingdom" ], "director": [ "Curry Barker" ], "actores": [ "Michael Johnston", "Inde Navarrette", "Cooper Tomlinson", "Megan Lawless", "Andy Richter", "Haley Fitzgerald", "Darin Toonder", "Anthony Pavone", "Justice", "Anthony Casabianca" ], "calificacion": 8.2, "videomp4": "video.mp4" }
 ]
