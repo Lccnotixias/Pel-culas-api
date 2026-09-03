@@ -55,5 +55,38 @@
     "calificacion": 8.2,
     "videomp4": "https://enlace-al-video-mp4-4.mp4"
   },
-  { "id": "obsesion", "titulo": "Obsesión", "portada": "https://image.tmdb.org/t/p/w500/rmCkNtzYR2xTOO3ZXmIqB5zgYdE.jpg", "banner": "https://image.tmdb.org/t/p/w1280/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg", "categorias": [ "Terror", "Suspense" ], "descripcion": "Tras romper el misterioso \"Sauce de un Deseo\" para conquistar el corazón de la chica que le gusta, un romántico empedernido consigue exactamente lo que pedía, pero pronto descubre que algunos deseos tienen un precio oscuro y siniestro.", "año": "2026", "pais": [ "United States of America", "United Kingdom" ], "director": [ "Curry Barker" ], "actores": [ "Michael Johnston", "Inde Navarrette", "Cooper Tomlinson", "Megan Lawless", "Andy Richter", "Haley Fitzgerald", "Darin Toonder", "Anthony Pavone", "Justice", "Anthony Casabianca" ], "calificacion": 8.2, "videomp4": "video.mp4" }
+  { "id": "obsesion", "titulo": "Obsesión", "portada": "https://image.tmdb.org/t/p/w500/rmCkNtzYR2xTOO3ZXmIqB5zgYdE.jpg", "banner": "https://image.tmdb.org/t/p/w1280/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg", "categorias": [ "Terror", "Suspense" ], "descripcion": "Tras romper el misterioso \"Sauce de un Deseo\" para conquistar el corazón de la chica que le gusta, un romántico empedernido consigue exactamente lo que pedía, pero pronto descubre que algunos deseos tienen un precio oscuro y siniestro.", "año": "2026", "pais": [ "United States of America", "United Kingdom" ], "director": [ "Curry Barker" ], "actores": [ "Michael Johnston", "Inde Navarrette", "Cooper Tomlinson", "Megan Lawless", "Andy Richter", "Haley Fitzgerald", "Darin Toonder", "Anthony Pavone", "Justice", "Anthony Casabianca" ], "calificacion": 8.2, "videomp4": "video.mp4" },
+  {
+  "id": "no-se-desea-buena-suerte",
+  "titulo": "No se desea buena suerte",
+  "portada": "https://image.tmdb.org/t/p/w500/eSHrRxvVxXH0JYdj2NdBD78FC6B.jpg",
+  "banner": "https://image.tmdb.org/t/p/w1280/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg",
+  "categorias": [
+    "Comedia",
+    "Música",
+    "Drama"
+  ],
+  "descripcion": "Sophie Birenbaum está lista para ser el centro de atención como la protagonista del musical escolar, hasta que debe enfrentar más drama en casa que en el escenario.",
+  "año": "2026",
+  "pais": [
+    "United States of America"
+  ],
+  "director": [
+    "Julia Hart"
+  ],
+  "actores": [
+    "Sunny Sandler",
+    "Melanie Lynskey",
+    "Max Greenfield",
+    "Stephanie Beatriz",
+    "Bebe Neuwirth",
+    "Steve Buscemi",
+    "Matan Friedman",
+    "Eitan Friedman",
+    "Scarlett Estevez",
+    "Emma McNulty"
+  ],
+  "calificacion": 7.3,
+  "videomp4": "video.mp4"
+}
 ]
