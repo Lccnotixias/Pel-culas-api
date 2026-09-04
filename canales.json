@@ -18,8 +18,8 @@
 
   {
     "id": "2",
-    "numero": "002",
-    "nombre": "Bravo TV",
+    "numero": "003",
+    "nombre": "telefe",
     "logo": "https://via.placeholder.com/150",
     "categoria": "VIVO GRATIS",
     "urlStream": "http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8"
@@ -27,7 +27,7 @@
   
   {
     "id": "3",
-    "numero": "007",
+    "numero": "004",
     "nombre": "ECDF",
     "logo": "https://via.placeholder.com/150",
     "categoria": "DEPORTES",
