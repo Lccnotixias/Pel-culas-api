@@ -40,49 +40,19 @@
     "actores": ["Sunny Sandler", "Melanie Lynskey", "Max Greenfield", "Stephanie Beatriz", "Bebe Neuwirth", "Steve Buscemi", "Matan Friedman", "Eitan Friedman", "Scarlett Estevez", "Emma McNulty"],
     "calificacion": 7.3,
     "videomp4": "https://ia600408.us.archive.org/9/items/no-se-desea-buena-suerte-cineplus-voe/No%20se%20desea%20buena%20suerte%20-%20Cineplus%20-%20Voe.mp4"
-  }
+  },
   {
-  "movies": {
-    "5131-spider-man-homecoming-online-espanol": {
-      "id": "5131-spider-man-homecoming-online-espanol",
-      "title": "Spider-Man: Homecoming",
-      "portada": "N/A",
-      "year": "2017",
-      "country": [
-        "Estados Unidos"
-      ],
-      "duration": "129 Min.",
-      "generes": [
-        "Acción",
-        "Aventuras",
-        "ciencia ficcion",
-        "Drama"
-      ],
-      "quality": [
-        "HD/latino",
-        "castellano",
-        "sub"
-      ],
-      "rating": "7.4",
-      "description": "Peter Parker comienza a experimentar su recién descubierta identidad como el superhéroe Spider-Man. Después de la experiencia vivida con los Vengadores, Peter regresa a casa, donde vive con su tía. Bajo la atenta mirada de su mentor Tony Stark, Peter intenta mantener una vida normal como cualquier joven de su edad, pero interrumpe en su rutina diaria el nuevo villano Vulture y, con él, lo más importante de la vida de Peter comenzará a verse amenazado.",
-      "servers": {
-        "latino": {
-          "opcion1": "https://dr0pstream.com/e/kgy5mr6m13fo",
-          "opcion2": "https://supervideo.cc/e/zl32ym4wiu98",
-          "opcion3": "https://dood.to/e/ppzi6p8et0ol"
-        },
-        "castellano": {
-          "opcion1": "https://dr0pstream.com/e/mloo8kmy50en",
-          "opcion2": "https://supervideo.cc/e/pmx4wsihwjxt",
-          "opcion3": "https://dood.to/e/178yczgkxzkc"
-        },
-        "subtitulado": {
-          "opcion1": "https://dr0pstream.com/e/sqogw1sza2q8",
-          "opcion2": "https://supervideo.cc/e/moekvcs0yu9n",
-          "opcion3": "https://dood.to/e/ztldq3igp0iw"
-        }
-      }
-    }
+    "id": "5131-spider-man-homecoming-online-espanol",
+    "titulo": "Spider-Man: Homecoming",
+    "portada": "N/A",
+    "banner": "https://image.tmdb.org/t/p/w1280/8kNruSfcpUIRx6oPxrtx1WjJ0ZY.jpg",
+    "categorias": ["Acción", "Aventuras", "Ciencia ficción", "Drama"],
+    "descripcion": "Peter Parker comienza a experimentar su recién descubierta identidad como el superhéroe Spider-Man. Después de la experiencia vivida con los Vengadores, Peter regresa a casa...",
+    "anio": "2017",
+    "pais": ["Estados Unidos"],
+    "director": ["Jon Watts"],
+    "actores": ["Tom Holland", "Michael Keaton", "Robert Downey Jr."],
+    "calificacion": 7.4,
+    "videomp4": "https://dr0pstream.com/e/kgy5mr6m13fo"
   }
-}
 ]
