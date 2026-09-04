@@ -5,7 +5,7 @@
     "nombre": "LGVIP La Gala",
     "logo": "https://via.placeholder.com/150",
     "categoria": "VIVO GRATIS",
-    "urlStream": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    "urlStream": "http://playcom.trapemn.tv:1935/transcoderip/america.stream/playlist.m3u8"
   },
   {
     "id": "2",
