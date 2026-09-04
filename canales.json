@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "numero": "001",
+    "nombre": "LGVIP La Gala",
+    "logo": "https://via.placeholder.com/150",
+    "categoria": "VIVO GRATIS",
+    "urlStream": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+  },
+  {
+    "id": "2",
+    "numero": "007",
+    "nombre": "ECDF",
+    "logo": "https://via.placeholder.com/150",
+    "categoria": "DEPORTES",
+    "urlStream": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackSeeTheWorld.mp4"
+  }
+]
