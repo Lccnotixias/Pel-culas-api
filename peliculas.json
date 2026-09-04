@@ -13,40 +13,32 @@
     "calificacion": 7.9,
     "videomp4": "https://ia600108.us.archive.org/29/items/coyote-vs.-acme-2026-1080-p-dcprip/Coyote%20Vs.%20Acme%20(2026)%20%5B1080P%5D%20Dcprip.mp4"
   },
-     
-  },
-  { "id": "obsesion", "titulo": "Obsesión", "portada": "https://image.tmdb.org/t/p/w500/rmCkNtzYR2xTOO3ZXmIqB5zgYdE.jpg", "banner": "https://image.tmdb.org/t/p/w1280/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg", "categorias": [ "Terror"], "descripcion": "Tras romper el misterioso \"Sauce de un Deseo\" para conquistar el corazón de la chica que le gusta, un romántico empedernido consigue exactamente lo que pedía, pero pronto descubre que algunos deseos tienen un precio oscuro y siniestro.", "año": "2026", "pais": [ "United States of America", "United Kingdom" ], "director": [ "Curry Barker" ], "actores": [ "Michael Johnston", "Inde Navarrette", "Cooper Tomlinson", "Megan Lawless", "Andy Richter", "Haley Fitzgerald", "Darin Toonder", "Anthony Pavone", "Justice", "Anthony Casabianca" ], "calificacion": 8.2, "videomp4": "https://ugc-cdn-caching-n3thliixidzdaessdj.cloudwindow-route.com/engine/hls2-c/01/18142/7ugsbzzgc5jh_,o,.urlset/index-v1-a1.m3u8?t=gmJlhefemWigEx3SeslBoctxqjI_qw1V_LpTIReyprU&s=1788417544&e=14400&f=90713955&node=JmTX84tpN7ZTLw79gMPm0hH1VP2VeOemqREStnp8r9I=&i=181.46&sp=2500&asn=27747&q=o&rq=kxeUZGdOKBatfbfS3thM9fzOTuWbug5JKhFBwHFL" },
   {
-  "id": "no-se-desea-buena-suerte",
-  "titulo": "No se desea buena suerte",
-  "portada": "https://image.tmdb.org/t/p/w500/eSHrRxvVxXH0JYdj2NdBD78FC6B.jpg",
-  "banner": "https://image.tmdb.org/t/p/w1280/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg",
-  "categorias": [
-    "Comedia",
-    "Música",
-    "Drama"
-  ],
-  "descripcion": "Sophie Birenbaum está lista para ser el centro de atención como la protagonista del musical escolar, hasta que debe enfrentar más drama en casa que en el escenario.",
-  "año": "2026",
-  "pais": [
-    "United States of America"
-  ],
-  "director": [
-    "Julia Hart"
-  ],
-  "actores": [
-    "Sunny Sandler",
-    "Melanie Lynskey",
-    "Max Greenfield",
-    "Stephanie Beatriz",
-    "Bebe Neuwirth",
-    "Steve Buscemi",
-    "Matan Friedman",
-    "Eitan Friedman",
-    "Scarlett Estevez",
-    "Emma McNulty"
-  ],
-  "calificacion": 7.3,
-  "videomp4": "https://ia600408.us.archive.org/9/items/no-se-desea-buena-suerte-cineplus-voe/No%20se%20desea%20buena%20suerte%20-%20Cineplus%20-%20Voe.mp4"
-}
+    "id": "obsesion",
+    "titulo": "Obsesión",
+    "portada": "https://image.tmdb.org/t/p/w500/rmCkNtzYR2xTOO3ZXmIqB5zgYdE.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+    "categorias": ["Terror"],
+    "descripcion": "Tras romper el misterioso \"Sauce de un Deseo\" para conquistar el corazón de la chica que le gusta, un romántico empedernido consigue exactamente lo que pedía, pero pronto descubre que algunos deseos tienen un precio oscuro y siniestro.",
+    "año": "2026",
+    "pais": ["United States of America", "United Kingdom"],
+    "director": ["Curry Barker"],
+    "actores": ["Michael Johnston", "Inde Navarrette", "Cooper Tomlinson", "Megan Lawless", "Andy Richter", "Haley Fitzgerald", "Darin Toonder", "Anthony Pavone", "Justice", "Anthony Casabianca"],
+    "calificacion": 8.2,
+    "videomp4": "https://ugc-cdn-caching-n3thliixidzdaessdj.cloudwindow-route.com/engine/hls2-c/01/18142/7ugsbzzgc5jh_,o,.urlset/index-v1-a1.m3u8?t=gmJlhefemWigEx3SeslBoctxqjI_qw1V_LpTIReyprU&s=1788417544&e=14400&f=90713955&node=JmTX84tpN7ZTLw79gMPm0hH1VP2VeOemqREStnp8r9I=&i=181.46&sp=2500&asn=27747&q=o&rq=kxeUZGdOKBatfbfS3thM9fzOTuWbug5JKhFBwHFL"
+  },
+  {
+    "id": "no-se-desea-buena-suerte",
+    "titulo": "No se desea buena suerte",
+    "portada": "https://image.tmdb.org/t/p/w500/eSHrRxvVxXH0JYdj2NdBD78FC6B.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg",
+    "categorias": ["Comedia", "Música", "Drama"],
+    "descripcion": "Sophie Birenbaum está lista para ser el centro de atención como la protagonista del musical escolar, hasta que debe enfrentar más drama en casa que en el escenario.",
+    "año": "2026",
+    "pais": ["United States of America"],
+    "director": ["Julia Hart"],
+    "actores": ["Sunny Sandler", "Melanie Lynskey", "Max Greenfield", "Stephanie Beatriz", "Bebe Neuwirth", "Steve Buscemi", "Matan Friedman", "Eitan Friedman", "Scarlett Estevez", "Emma McNulty"],
+    "calificacion": 7.3,
+    "videomp4": "https://ia600408.us.archive.org/9/items/no-se-desea-buena-suerte-cineplus-voe/No%20se%20desea%20buena%20suerte%20-%20Cineplus%20-%20Voe.mp4"
+  }
 ]
