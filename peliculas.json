@@ -45,36 +45,35 @@
     "saga": ""
   },
   {
-    "id": "x-men",
-    "titulo": "X-Men",
-    "portada": "https://image.tmdb.org/t/p/w500/16QnGS3jL2w9SsZXZ0lHoXHVQyv.jpg",
-    "banner": "https://image.tmdb.org/t/p/w1280/3QUVzbcNyfGe3ocWkYAT8emK8Co.jpg",
-    "categorias": [
-      "Aventura",
-      "SAGA ANTES DE AVENGERS DOOMDSAY",
-    ],
-    "descripcion": "En un mundo en el que los mutantes (humanos superpotentes evolucionados) existen y son discriminados, se forman dos grupos para un choque inevitable: la Hermandad supremacista, y los X-Men pacifistas.",
-    "año": "2000",
-    "pais": [
-      "United States of America"
-    ],
-    "director": [
-      "Bryan Singer"
-    ],
-    "actores": [
-      "Hugh Jackman",
-      "Patrick Stewart",
-      "Ian McKellen",
-      "Famke Janssen",
-      "James Marsden",
-      "Halle Berry",
-      "Anna Paquin",
-      "Tyler Mane",
-      "Ray Park",
-      "Rebecca Romijn"
-    ],
-    "calificacion": 7,
-    "videomp4": "https://ia601508.us.archive.org/19/items/x-men_20260905/X-Men.mp4",
-    "saga": "doomsday"
-  }
-]
+   {
+  "id": "x-men",
+  "titulo": "X-Men",
+  "portada": "https://image.tmdb.org/t/p/w500/16QnGS3jL2w9SsZXZ0lHoXHVQyv.jpg",
+  "banner": "https://image.tmdb.org/t/p/w1280/3QUVzbcNyfGe3ocWkYAT8emK8Co.jpg",
+  "categorias": [
+    "Aventura"
+  ],
+  "descripcion": "En un mundo en el que los mutantes (humanos superpotentes evolucionados) existen y son discriminados, se forman dos grupos para un choque inevitable: la Hermandad supremacista, y los X-Men pacifistas.",
+  "año": "2000",
+  "pais": [
+    "United States of America"
+  ],
+  "director": [
+    "Bryan Singer"
+  ],
+  "actores": [
+    "Hugh Jackman",
+    "Patrick Stewart",
+    "Ian McKellen",
+    "Famke Janssen",
+    "James Marsden",
+    "Halle Berry",
+    "Anna Paquin",
+    "Tyler Mane",
+    "Ray Park",
+    "Rebecca Romijn"
+  ],
+  "calificacion": 7,
+  "videomp4": "https://ia601508.us.archive.org/19/items/x-men_20260905/X-Men.mp4",
+  "saga": "doomsday"
+}
