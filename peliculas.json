@@ -4,12 +4,23 @@
     "titulo": "Coyote vs. Acme",
     "portada": "https://image.tmdb.org/t/p/w500/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
     "banner": "https://image.tmdb.org/t/p/w1280/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
-    "categorias": ["Comedia","Ultimos Estrenos"],
+    "categorias": [
+      "Comedia",
+      "Ultimos Estrenos"
+    ],
     "descripcion": "Luego de que los productos Acme le fallan demasiadas veces en su tenaz búsqueda del Correcaminos, Wile E. Coyote decide contratar a un abogado especializado en vallas publicitarias para demandar a Acme Corporation.",
     "anio": "2026",
-    "pais": ["United States of America"],
-    "director": ["Dave Green"],
-    "actores": ["Will Forte", "Lana Condor", "John Cena"],
+    "pais": [
+      "United States of America"
+    ],
+    "director": [
+      "Dave Green"
+    ],
+    "actores": [
+      "Will Forte",
+      "Lana Condor",
+      "John Cena"
+    ],
     "calificacion": 7.9,
     "videomp4": "https://ia600108.us.archive.org/29/items/coyote-vs.-acme-2026-1080-p-dcprip/Coyote%20Vs.%20Acme%20(2026)%20%5B1080P%5D%20Dcprip.mp4",
     "saga": ""
@@ -19,12 +30,30 @@
     "titulo": "Obsesión",
     "portada": "https://image.tmdb.org/t/p/w500/rmCkNtzYR2xTOO3ZXmIqB5zgYdE.jpg",
     "banner": "https://image.tmdb.org/t/p/w1280/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-    "categorias": ["Terror"],
+    "categorias": [
+      "Terror"
+    ],
     "descripcion": "Tras romper el misterioso \"Sauce de un Deseo\" para conquistar el corazón de la chica que le gusta, un romántico empedernido consigue exactamente lo que pedía, pero pronto descubre que algunos deseos tienen un precio oscuro y siniestro.",
     "año": "2026",
-    "pais": ["United States of America", "United Kingdom"],
-    "director": ["Curry Barker"],
-    "actores": ["Michael Johnston", "Inde Navarrette", "Cooper Tomlinson", "Megan Lawless", "Andy Richter", "Haley Fitzgerald", "Darin Toonder", "Anthony Pavone", "Justice", "Anthony Casabianca"],
+    "pais": [
+      "United States of America",
+      "United Kingdom"
+    ],
+    "director": [
+      "Curry Barker"
+    ],
+    "actores": [
+      "Michael Johnston",
+      "Inde Navarrette",
+      "Cooper Tomlinson",
+      "Megan Lawless",
+      "Andy Richter",
+      "Haley Fitzgerald",
+      "Darin Toonder",
+      "Anthony Pavone",
+      "Justice",
+      "Anthony Casabianca"
+    ],
     "calificacion": 8.2,
     "videomp4": "https://ugc-cdn-caching-n3thliixidzdaessdj.cloudwindow-route.com/engine/hls2-c/01/18142/7ugsbzzgc5jh_,o,.urlset/index-v1-a1.m3u8?t=gmJlhefemWigEx3SeslBoctxqjI_qw1V_LpTIReyprU&s=1788417544&e=14400&f=90713955&node=JmTX84tpN7ZTLw79gMPm0hH1VP2VeOemqREStnp8r9I=&i=181.46&sp=2500&asn=27747&q=o&rq=kxeUZGdOKBatfbfS3thM9fzOTuWbug5JKhFBwHFL",
     "saga": ""
@@ -34,46 +63,66 @@
     "titulo": "No se desea buena suerte",
     "portada": "https://image.tmdb.org/t/p/w500/eSHrRxvVxXH0JYdj2NdBD78FC6B.jpg",
     "banner": "https://image.tmdb.org/t/p/w1280/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg",
-    "categorias": ["Comedia", "Música", "Drama"],
+    "categorias": [
+      "Comedia",
+      "Música",
+      "Drama"
+    ],
     "descripcion": "Sophie Birenbaum está lista para ser el centro de atención como la protagonista del musical escolar, hasta que debe enfrentar más drama en casa que en el escenario.",
     "año": "2026",
-    "pais": ["United States of America"],
-    "director": ["Julia Hart"],
-    "actores": ["Sunny Sandler", "Melanie Lynskey", "Max Greenfield", "Stephanie Beatriz", "Bebe Neuwirth", "Steve Buscemi", "Matan Friedman", "Eitan Friedman", "Scarlett Estevez", "Emma McNulty"],
+    "pais": [
+      "United States of America"
+    ],
+    "director": [
+      "Julia Hart"
+    ],
+    "actores": [
+      "Sunny Sandler",
+      "Melanie Lynskey",
+      "Max Greenfield",
+      "Stephanie Beatriz",
+      "Bebe Neuwirth",
+      "Steve Buscemi",
+      "Matan Friedman",
+      "Eitan Friedman",
+      "Scarlett Estevez",
+      "Emma McNulty"
+    ],
     "calificacion": 7.3,
     "videomp4": "https://ia600408.us.archive.org/9/items/no-se-desea-buena-suerte-cineplus-voe/No%20se%20desea%20buena%20suerte%20-%20Cineplus%20-%20Voe.mp4",
     "saga": ""
   },
   {
-   {
-  "id": "x-men",
-  "titulo": "X-Men",
-  "portada": "https://image.tmdb.org/t/p/w500/16QnGS3jL2w9SsZXZ0lHoXHVQyv.jpg",
-  "banner": "https://image.tmdb.org/t/p/w1280/3QUVzbcNyfGe3ocWkYAT8emK8Co.jpg",
-  "categorias": [
-    "Aventura"
-  ],
-  "descripcion": "En un mundo en el que los mutantes (humanos superpotentes evolucionados) existen y son discriminados, se forman dos grupos para un choque inevitable: la Hermandad supremacista, y los X-Men pacifistas.",
-  "año": "2000",
-  "pais": [
-    "United States of America"
-  ],
-  "director": [
-    "Bryan Singer"
-  ],
-  "actores": [
-    "Hugh Jackman",
-    "Patrick Stewart",
-    "Ian McKellen",
-    "Famke Janssen",
-    "James Marsden",
-    "Halle Berry",
-    "Anna Paquin",
-    "Tyler Mane",
-    "Ray Park",
-    "Rebecca Romijn"
-  ],
-  "calificacion": 7,
-  "videomp4": "https://ia601508.us.archive.org/19/items/x-men_20260905/X-Men.mp4",
-  "saga": "doomsday"
-}
+    "id": "x-men",
+    "titulo": "X-Men",
+    "portada": "https://image.tmdb.org/t/p/w500/16QnGS3jL2w9SsZXZ0lHoXHVQyv.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/3QUVzbcNyfGe3ocWkYAT8emK8Co.jpg",
+    "categorias": [
+      "Aventura",
+      "SAGA ANTES DE AVENGERS DOOMSDAY"
+    ],
+    "descripcion": "En un mundo en el que los mutantes (humanos superpotentes evolucionados) existen y son discriminados, se forman dos grupos para un choque inevitable: la Hermandad supremacista, y los X-Men pacifistas.",
+    "año": "2000",
+    "pais": [
+      "United States of America"
+    ],
+    "director": [
+      "Bryan Singer"
+    ],
+    "actores": [
+      "Hugh Jackman",
+      "Patrick Stewart",
+      "Ian McKellen",
+      "Famke Janssen",
+      "James Marsden",
+      "Halle Berry",
+      "Anna Paquin",
+      "Tyler Mane",
+      "Ray Park",
+      "Rebecca Romijn"
+    ],
+    "calificacion": 7,
+    "videomp4": "https://ia601508.us.archive.org/19/items/x-men_20260905/X-Men.mp4",
+    "saga": "doomsday"
+  }
+]
