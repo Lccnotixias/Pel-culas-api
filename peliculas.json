@@ -41,18 +41,5 @@
     "calificacion": 7.3,
     "videomp4": "https://ia600408.us.archive.org/9/items/no-se-desea-buena-suerte-cineplus-voe/No%20se%20desea%20buena%20suerte%20-%20Cineplus%20-%20Voe.mp4"
   },
-  {
-    "id": "5131-spider-man-homecoming-online-espanol",
-    "titulo": "Spider-Man: Homecoming",
-    "portada": "N/A",
-    "banner": "https://image.tmdb.org/t/p/w1280/8kNruSfcpUIRx6oPxrtx1WjJ0ZY.jpg",
-    "categorias": ["Acción", "Aventuras", "Ciencia ficción", "Drama"],
-    "descripcion": "Peter Parker comienza a experimentar su recién descubierta identidad como el superhéroe Spider-Man. Después de la experiencia vivida con los Vengadores, Peter regresa a casa...",
-    "anio": "2017",
-    "pais": ["Estados Unidos"],
-    "director": ["Jon Watts"],
-    "actores": ["Tom Holland", "Michael Keaton", "Robert Downey Jr."],
-    "calificacion": 7.4,
-    "videomp4": "https://dr0pstream.com/e/kgy5mr6m13fo"
-  }
+ { "id": "spider-man-de-regreso-a-casa", "titulo": "Spider-Man: De regreso a casa", "portada": "https://image.tmdb.org/t/p/w500/h1Iq6WfE4RWc9klGvN8sdi5aR6V.jpg", "banner": "https://image.tmdb.org/t/p/w1280/fn4n6uOYcB6Uh89nbNPoU2w80RV.jpg", "categorias": [ "Acción", "Aventura", "Ciencia ficción" ], "descripcion": "Peter Parker comienza a experimentar su recién descubierta identidad como el superhéroe Spider-Man (El Hombre Araña). Después de la experiencia vivida con los Vengadores, Peter regresa a casa, donde vive con su tía. Bajo la atenta mirada de su mentor Tony Stark, Peter intenta mantener una vida normal como cualquier joven de su edad, pero interrumpe en su rutina diaria el nuevo villano Vulture y, con él, lo más importante de la vida de Peter comenzará a verse amenazado.", "año": "2017", "pais": [ "United States of America" ], "director": [ "Jon Watts" ], "actores": [ "Tom Holland", "Michael Keaton", "Robert Downey Jr.", "Marisa Tomei", "Jon Favreau", "Gwyneth Paltrow", "Zendaya", "Donald Glover", "Jacob Batalon", "Laura Harrier" ], "calificacion": 7.3, "videomp4": "https://dr0pstream.com/e/kgy5mr6m13fo" }
 ]
